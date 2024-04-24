@@ -11,11 +11,11 @@
     2. Displayed the updated radius and colour by using a setter
     3. Calculated the area and circumference of the circle by using both the initial values and the updated values.
     4. Get the code in the [OOP in JS](./OOP%20in%20JS/Circle.js) folder
-3. Created a Person class to hold all the details of the person.
+3. Created a Person class to hold all the details of the person:
     1. In constructor, this class has some random information(properties) about the person
     2. Displayed the information of the person from the class by using getter and updated it by using setter
-    3. Get the code in the [OOP in JS](./OOP%20in%20JS/PersonDetails.js)
-4. Calculated and displayed the price of the uber ride with class
+    3. Get the code in the [OOP in JS](./OOP%20in%20JS/PersonDetails.js) folder
+4. Displayed the price detail of an Uber ride by using class in JS:
     1. Created a class UberPriceCalculation with constructor(baseFare, costPerKm, costPerMinute)
     2. Set values for this class by creating a new object with uberPriceCalculatio as an object name
     3. Calculated and displayed the Uber ride price for the given values
